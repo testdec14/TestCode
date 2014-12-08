@@ -18,7 +18,7 @@ public class SalesTester //testerClass
 		list[0] = new SalesPerson("Tara Keena","3498574h");
 		list[1] = new SalesAgent("Cialin Earls", "3847562f");
 		list[2] = new SalesPerson("Paul Brady","4726391d");
-		list[3] = new SalesAgent("Eddie Vedder", "2736482c");
+		list[3] = new SalesAgent("Tom Hanks", "2736482c");
 		list[4] = new SalesPerson("Paul Simon", "17562906W");
 
 
